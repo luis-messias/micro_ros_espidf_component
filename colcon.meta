@@ -41,7 +41,8 @@
                 "-DRMW_UXRCE_MAX_SUBSCRIPTIONS=10",
                 "-DRMW_UXRCE_MAX_SERVICES=10",
                 "-DRMW_UXRCE_MAX_CLIENTS=10",
-                "-DRMW_UXRCE_MAX_HISTORY=10"
+                "-DRMW_UXRCE_MAX_HISTORY=10",
+                "-DRMW_UXRCE_MAX_PARAMETERS=10"
             ]
         },
         "embeddedrtps": {
